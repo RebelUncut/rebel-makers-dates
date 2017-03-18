@@ -1,0 +1,33 @@
+{
+  "address": "Rebel Uncut, 28D Ludgate Hill, Birmingham, B3 1DX",
+  "gmaps_url": "https://goo.gl/maps/5jyobio6czK2",
+  "contact_name": "Nat Higginbottom",
+  "contact_email": "nat@rebeluncut.co.uk",
+  "dates": [
+    {
+      "day": 25,
+      "month": "March",
+      "year": 2017
+    },
+    {
+      "day": 22,
+      "month": "April",
+      "year": 2017
+    },
+    {
+      "day": 20,
+      "month": "May",
+      "year": 2017
+    },
+    {
+      "day": 17,
+      "month": "June",
+      "year": 2017
+    },
+    {
+      "day": 29,
+      "month": "June",
+      "year": 2017
+    }
+  ]
+}
